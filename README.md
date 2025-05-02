@@ -1,16 +1,25 @@
-## Hi there 👋
+## <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark #ms314006
 
-<!--
-**kusoboy520/kusoboy520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm James!
+I am a data engineer with many years of experience in data ETL and streaming.
+Feel free to contact me for any data-related inquiries or collaboration opportunities.
 
-Here are some ideas to get you started:
+## 🧠 That I know and use
+### 📚 Langues and Frameworks
+- Python, pytorch, airflow, spark
+- SQL, MQ(kafka, RabbitMQ)
+- Docker
+- CICD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tool
+- Business analysis
+- Recommendation System
+- ETL
+- Dashboard
+
+## 💡 Projects
+- [ETL pipeline](https://github.com/kusoboy520/api_pipeline)
+
+## 🔗 Get in touch
+- E-mail: kusoboy5202@gmail.com
+
